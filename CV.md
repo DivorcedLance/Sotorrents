@@ -134,3 +134,6 @@ Esquemas en Bases de Datos
 ## Modelo lógico vs modelo conceptual
 
  El modelo de datos lógicos es una representación abstracta de una posible implementación, sin estar vinculado a ninguna implementación específica, mientras que el modelo de datos conceptual es una representación de alto nivel de los requisitos comerciales y los conjuntos y relaciones de datos conectados. El modelo lógico, a través de un proceso de normalización, brinda una representación más estructurada de las entidades y sus relaciones y detalla más sus relaciones y características: se resuelven las redundancias, las relaciones de muchos a muchos, las ambigüedades y las incertidumbres de atribución de entidades y surge obviamente una posible implementación de base de datos.
+
+
+ 
